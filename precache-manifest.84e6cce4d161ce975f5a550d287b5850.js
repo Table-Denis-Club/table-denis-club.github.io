@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fonts/MaterialIcons-Regular.012cf6a1.woff"
   },
   {
-    "revision": "5c1190937c6eb51c38fe9489dc9a0560",
+    "revision": "a4f8a2d50e2ea147ecd7b35a89557d4f",
     "url": "/index.html"
   },
   {

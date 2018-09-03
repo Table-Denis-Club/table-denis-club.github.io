@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c901085591b80af33b57226fac6e5eb0.js"
+  "/precache-manifest.84e6cce4d161ce975f5a550d287b5850.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "uwtta"});
