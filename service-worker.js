@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7f20936cf4e330ea7decddf4a6e4e3a1.js"
+  "/precache-manifest.dfd0f6ab8d92e683050bbc9f19687b83.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "uwtta"});
+workbox.core.setCacheNameDetails({prefix: "table-denis-club"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
