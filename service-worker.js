@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e40b9a3e6ae3ee8c24e83a767d0d4238.js"
+  "/precache-manifest.c47f1dd4db4bac8a12d14d605cec73f9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "table-denis-club"});
